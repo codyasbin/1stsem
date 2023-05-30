@@ -1,0 +1,2 @@
+fname="asbinmagar"
+print(fname)

@@ -1,0 +1,10 @@
+class animals:
+    pass
+
+ani=animals()
+ani.name= 'dear'
+ani.name2= 'tiger'
+ani.name3= 'lion'
+print(f"{ani.name} {ani.name2} {ani.name3}")
+
+
